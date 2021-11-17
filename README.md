@@ -39,7 +39,7 @@ or
 * Make trends bar update in real time
 * Add more customization tools
 
-## 🙍‍♂️ Collaborators
+## 🙍‍♂️ Contributors
 Project made by 
 `Skeeven` with `Timothe`'s help for the README section  
 
