@@ -6,6 +6,10 @@ We made a twitter clone responsive using HTML5 and CSS for educational purposes 
 ## 🎴 Layout
 ![image](https://user-images.githubusercontent.com/91453728/142189521-9a4051ae-bc24-4438-973b-f75b7612ec2b.png)
 
+##  ❓ Why ?
+Twitter is one of the most used social media in the world. In this project, we wanted to create our own Twitter at home, as we discover how the original Twitter was conceived. 
+We made it using only HTML and CSS.
+
 ## 👀 Get A closer look
 
 #### 🚀🔥 [See in action on codepen](https://codepen.io/timothecdgp/pen/JjywLgJ)
@@ -45,5 +49,3 @@ or
 ## 🙍‍♂️ Contributors
 Project made by 
 `Skeeven` with `Timothe`'s help for the README section  
-
-
