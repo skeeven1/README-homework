@@ -26,6 +26,7 @@ or
 * Fixed responsive for small devices including : Nokia 3310
 * Fixed a bug where the police was set to default when switching windows [only in 12.25.8 version]
 * Fixed the posts scrolling not working
+* Adjusted the navigation bar size when fullscreen
 * Fixed minor bugs
 * Updated files localization
 
@@ -34,9 +35,12 @@ or
 * Add a zoom feature for posts
 * Improve page loading time
 * Visual update for svg icons
+* Create others pages that are interactive
+* Make trends bar update in real time
+* Add more customization tools
 
 ## 🙍‍♂️ Collaborators
 Project made by 
-`Skeeven` with `Timothé`'s help for the README section  
+`Skeeven` with `Timothe`'s help for the README section  
 
 
