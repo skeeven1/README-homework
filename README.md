@@ -22,7 +22,7 @@ or
 
 
 # UPDATES
-## FIXED :
+## 🔧 BUGFIXES :
 * Fixed responsive for small devices including : Nokia 3310
 * Fixed a bug where the police was set to default when switching windows [only in 12.25.8 version]
 * Fixed the posts scrolling not working
