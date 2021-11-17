@@ -20,7 +20,7 @@ or
 - [HTML5](https://www.w3schools.com/html/)
 - [CSS3](https://www.w3schools.com/css/)
 
-## 🙍‍♂️ Contributors
+## 🙍‍♂️ Collaborator
 Project made by 
 `Skeeven` with `Timothé`  
 
