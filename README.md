@@ -38,7 +38,7 @@ How link CSS to your Html project :
 ## 🔧 BUG FIXES :
 * Fixed responsive for small devices including : Nokia 3310
 * Fixed a bug where the police was set to default when switching windows [only in 12.25.8 version]
-* Fixed the posts scrolling not working
+* Fixed the scrolling color
 * Adjusted the navigation bar size when fullscreen
 * Fixed minor bugs
 * Updated files localization
