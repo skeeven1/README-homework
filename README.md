@@ -48,7 +48,7 @@ How to add these icons to your project
 * Add a reacting menu that "refreshes" the main page
 * Add a zoom feature for posts
 * Improve page loading time
-* Visual update for svg icons
+* Visual update / adding new transition effects
 * Create others pages that are interactive
 * Make trends bar update in real time
 * Add more customization tools
