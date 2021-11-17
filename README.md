@@ -1,4 +1,4 @@
-# Project Twitter
+# Twitter Project
 We made a twitter clone responsive using HTML5 and CSS for educational purposes to learn more about this technologies
 
 ### Twitter clone built with CSS + HTML
