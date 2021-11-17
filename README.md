@@ -29,7 +29,7 @@ or
 * Fixed minor bugs
 * Updated files localization
 
-## FUTURE UPDATES :
+## 📰 FUTURE UPDATES :
 * Add a reacting menu that "refreshes" the main page
 * Add a zoom feature for posts
 * Improve page loading time
