@@ -35,7 +35,7 @@ or
 * Improve page loading time
 * Visual update for svg icons
 
-## 🙍‍♂️ Collaborator
+## 🙍‍♂️ Collaborators
 Project made by 
 `Skeeven` with `Timothé`'s help for the README section  
 
