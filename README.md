@@ -6,7 +6,7 @@ We made a twitter clone responsive using HTML5 and CSS for educational purposes 
 ## 🎴 Layout
 ![image](https://user-images.githubusercontent.com/91453728/142189521-9a4051ae-bc24-4438-973b-f75b7612ec2b.png)
 
-## 👀 A closer look
+## 👀 Get A closer look
 
 #### 🚀🔥 [See in action on codepen](https://codepen.io/timothecdgp/pen/JjywLgJ)
 or
@@ -20,8 +20,23 @@ or
 - [HTML5](https://www.w3schools.com/html/)
 - [CSS3](https://www.w3schools.com/css/)
 
+
+# UPDATES
+## FIXED :
+* Fixed responsive for small devices including : Nokia 3310
+* Fixed a bug where the police was set to default when switching windows [only in 12.25.8 version]
+* Fixed the posts scrolling not working
+* Fixed minor bugs
+* Updated files localization
+
+## FUTURE UPDATES :
+* Add a reacting menu that "refreshes" the main page
+* Add a zoom feature for posts
+* Improve page loading time
+* Visual update for svg icons
+
 ## 🙍‍♂️ Collaborator
 Project made by 
-`Skeeven` with `Timothé`  
+`Skeeven` with `Timothé`'s help for the README section  
 
 
