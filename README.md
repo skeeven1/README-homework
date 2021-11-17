@@ -16,13 +16,13 @@ or
 * Open the file `index.html`
 
 
-## 💻 Technologies
+## 💻 Technologies used
 - [HTML5](https://www.w3schools.com/html/)
 - [CSS3](https://www.w3schools.com/css/)
 
 
 # UPDATES
-## 🔧 BUGFIXES :
+## 🔧 BUG FIXES :
 * Fixed responsive for small devices including : Nokia 3310
 * Fixed a bug where the police was set to default when switching windows [only in 12.25.8 version]
 * Fixed the posts scrolling not working
