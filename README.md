@@ -28,7 +28,7 @@ How link CSS to your Html project :
 * [Font Awesome](https://fonts.google.com)
 * [Google Fonts](https://fonts.google.com)
 
-* How to add these icons to your project
+How to add these icons to your project
 ```html
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/[YOUR CSS FILE]"
