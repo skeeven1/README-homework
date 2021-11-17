@@ -16,11 +16,11 @@ or
 * Open the file `index.html`
 
 
-## 💻 Languages used
+## 💻 Languages
 * [HTML5](https://www.w3schools.com/html/)
 * [CSS3](https://www.w3schools.com/css/)
 
-## 🔣 Fonts used :
+## 🔣 Fonts
 * [Font Awesome](https://fonts.google.com)
 * [Google Fonts](https://fonts.google.com)
 
