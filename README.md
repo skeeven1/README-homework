@@ -1,5 +1,5 @@
 # Twitter Project
-We made a responsive twitter clone using HTML and CSS for educational purposes to learn more about this technologies
+We made a responsive twitter clone using HTML and CSS for educational purposes to learn more about this technologies.
 ##  ❓ Why ?
 Twitter is one of the most used social media in the world. In this project, we wanted to create our own Twitter at home, as we discover how the original Twitter was conceived. 
 We made it using only **`HTML5`** and **`CSS3`**.
