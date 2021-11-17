@@ -26,8 +26,8 @@ How to link CSS to your HTML project :
 <link rel="stylesheet" href="assets/style.css">
 ```
 ## 🔣 Fonts
-* [Font Awesome](https://fonts.google.com)
-* [Google Fonts](https://fonts.google.com)
+* [Font Awesome](https://fontawesome.com/v5.15/icons)
+* [Google Fonts](https://fonts.google.com/icons)
 
 How to add these icons to your project
 ```html
@@ -39,7 +39,7 @@ How to add these icons to your project
 ## 🔧 BUG FIXES :
 * Fixed responsive for small devices including : Nokia 3310
 * Fixed a bug where the police was set to default when switching windows [only in 12.25.8 version]
-* Fixed the scrolling color
+* Fixed the scrolling bar color
 * Adjusted the navigation bar size when fullscreen
 * Fixed minor bugs
 * Updated files localization
